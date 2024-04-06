@@ -71,12 +71,16 @@ nav img {
 .social-icon i {
     font-size: 1.5rem;
     margin-right: 1.2rem;
+     font-weight: 800;
 }
 
 .fa-brands {
     border: 2px solid #0e0d0da0;
     padding: 0.4rem;
     border-radius: 50%;
+}
+#ham{
+    display: none;
 }
 
 .first-section {
@@ -206,6 +210,14 @@ nav img {
 
     .align li {
         display: none;
+    }
+    .social-icon{
+        display: none;
+    }
+    #ham{
+        display: block;
+        font-size: 1.5rem;
+        font-weight: 700;
     }
 }
 
