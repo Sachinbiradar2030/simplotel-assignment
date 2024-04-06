@@ -184,7 +184,8 @@ nav img {
 }
 
 .right p {
-    width: 90%;
+  width: 80%;
+   margin-right: -7px;
 }
 
 .btn2 button {
